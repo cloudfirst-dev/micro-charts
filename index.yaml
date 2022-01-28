@@ -3,6 +3,16 @@ entries:
   service:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-01-28T15:09:52.948192787Z"
+    description: A Helm chart for Kubernetes
+    digest: 7c6af8068ab490752bdad1f84f2ef25eacdaac1d75f57cb13b4811d1af342c2a
+    name: service
+    type: application
+    urls:
+    - https://github.com/cloudfirst-dev/micro-charts/releases/download/service-0.1.1/service-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2021-11-30T19:23:48.769160769Z"
     description: A Helm chart for Kubernetes
     digest: 948da43a491954691d3121f95f34fc171e9fa8b1af5c61a6214d751b2305a48c
